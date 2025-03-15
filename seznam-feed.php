@@ -3,7 +3,7 @@
  * Plugin Name: RSS pro Seznam Newsfeed
  * Description: Vytváří vlastní RSS výstup na adrese /rss_newsfeed_seznam zobrazující posledních 20 příspěvků s featured image jako <enclosure> a popisem z excerptu nebo prvních 3 vět z <p>. Obsahuje administraci s výběrem kategorií a nastavením výpisu.
  * Version: 1.1
- * Author: Tomáš Rohlena / SEOTEST.CZ / Webmint s.r.o.
+ * Author: Tomáš Rohlena / <a href="https://seotest.cz">SEOTEST.CZ</a> / Webmint s.r.o.
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  */
